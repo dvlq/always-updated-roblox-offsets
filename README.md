@@ -1,2 +1,3 @@
-# always-updated-roblox-offsets
-A repo for always updated roblox offsets
+# only uwp for now
+
+I will update as fast as possible
